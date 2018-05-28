@@ -1,0 +1,5 @@
+fn = input()
+ln = input()
+age = int(input())
+town = input()
+print('You are '+ fn, ln +', a', str(age) + '-years old person from '+ town + '.')

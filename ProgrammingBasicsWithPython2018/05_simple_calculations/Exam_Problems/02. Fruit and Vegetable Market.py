@@ -1,0 +1,6 @@
+veg_price = float(input())
+frt_price = float(input())
+veg_amount = int(input())
+frt_amount = int(input())
+total_profit = (veg_amount * veg_price) + (frt_amount * frt_price)
+print(total_profit/1.94)
