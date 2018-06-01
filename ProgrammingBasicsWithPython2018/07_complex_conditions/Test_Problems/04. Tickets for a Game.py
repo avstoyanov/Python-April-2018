@@ -3,7 +3,6 @@ category = input().lower()
 people = int(input())
 vip = 499.99
 normal = 249.99
-transport = 0
 if 1 <= people <= 4:
     transport = budget*0.75
 elif 5 <= people <= 9:
