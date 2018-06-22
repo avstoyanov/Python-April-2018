@@ -2,7 +2,7 @@ num = int(input())
 for row in range((num + 1) // 2):
     if num % 2 == 0:
         print("-" * ((num // 2) - row) + "*" + "--" * row + "*" + "-" * ((num // 2) - row))
-    else :
+    else:
         print("-" * ((num // 2) - row) + "*" + "-" * (row*2 - 1) + "*" * ((row + 1) // num) + "-" * ((num // 2) - row))
 for row in range(num // 2):
     if num % 2 == 0:

@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2920182a-ed86-433e-85e0-35fe2db18c4f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/01. Rectangle 10 by 10.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/02. Rectangle N by N.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/03. Square of Stars.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/04. Triangle of Dollars.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/05. Square Frame.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/06. Rhombus of Stars.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/07. Christmas Tree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/08. Sunglasses.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/09. House.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/10. Diamond.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/10.1. Diamond.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/10. Diamond.py" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/10. Diamond.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="04. Triangle of Dollars.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/04. Triangle of Dollars.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="03. Square of Stars.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/03. Square of Stars.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/01. Rectangle 10 by 10.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -77,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/06. Rhombus of Stars.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -87,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/07. Christmas Tree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="4" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -97,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/08. Sunglasses.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -113,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10. Diamond.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="10. Diamond.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/10. Diamond.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="87" lean-forward="false" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10.1. Diamond.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/10.1. Diamond.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -164,12 +156,13 @@
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/08. Sunglasses.py" />
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/09. House.py" />
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/10. Diamond.py" />
+        <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/10.1. Diamond.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="26" />
-    <option name="width" value="679" />
+    <option name="width" value="683" />
     <option name="height" value="742" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -236,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.03. the Smart Lilly">
+  <component name="RunManager" selected="Python.10.1. Diamond">
     <configuration name="03. the Smart Lilly" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,6 +243,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-April-2018" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/08_loops/Test_Problems/03. the Smart Lilly.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="10. Diamond" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python-April-2018" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/10. Diamond.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="10.1. Diamond" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python-April-2018" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/10.1. Diamond.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,14 +302,18 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.12. Equal Pairs" />
       <item index="1" class="java.lang.String" itemvalue="Python.03. the Smart Lilly" />
+      <item index="2" class="java.lang.String" itemvalue="Python.10. Diamond" />
+      <item index="3" class="java.lang.String" itemvalue="Python.10.1. Diamond" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.03. the Smart Lilly" />
-        <item index="1" class="java.lang.String" itemvalue="Python.12. Equal Pairs" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.10.1. Diamond" />
+        <item index="1" class="java.lang.String" itemvalue="Python.10. Diamond" />
+        <item index="2" class="java.lang.String" itemvalue="Python.03. the Smart Lilly" />
+        <item index="3" class="java.lang.String" itemvalue="Python.12. Equal Pairs" />
       </list>
     </recent_temporary>
   </component>
@@ -326,22 +359,29 @@
       <option name="project" value="LOCAL" />
       <updated>1528597715208</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="loops zadachi">
+      <created>1529036885638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529036885638</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="26" width="679" height="742" extended-state="0" />
+    <frame x="-4" y="26" width="1374" height="746" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27540502" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1295754" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32605305" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937598" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937598" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -366,10 +406,82 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/08_loops/Test_Problems/03. the Smart Lilly.py">
+    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/04. Triangle of Dollars.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/03. Square of Stars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/01. Rectangle 10 by 10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/02. Rectangle N by N.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/05. Square Frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/06. Rhombus of Stars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/07. Christmas Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/08. Sunglasses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/09. House.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="94" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/10. Diamond.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -378,7 +490,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/08_loops/Test_Problems/03. the Smart Lilly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -562,7 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -593,7 +710,7 @@
     <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/01. Rectangle 10 by 10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -609,7 +726,7 @@
     <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/06. Rhombus of Stars.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -617,7 +734,7 @@
     <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/07. Christmas Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -625,7 +742,7 @@
     <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/08. Sunglasses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -640,8 +757,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/10. Diamond.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="87" lean-forward="false" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/10.1. Diamond.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
           <folding />
         </state>
       </provider>
