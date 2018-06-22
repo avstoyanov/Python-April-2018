@@ -1,11 +1,20 @@
-num = int(input())
-for row in range((num + 1) // 2):
-    if num % 2 == 0:
-        print("-" * ((num // 2) - row) + "*" + "--" * row + "*" + "-" * ((num // 2) - row))
+n = int(input())
+leftright = (n-1)//2
+mid = n-2 * leftright - 2
+
+for leftright in range(leftright, 0, -1):
+    if mid < 0:
+        print("-" * leftright + "*" + "-" * leftright)
     else:
-        print("-" * ((num // 2) - row) + "*" + "-" * (row*2 - 1) + "*" * ((row + 1) // num) + "-" * ((num // 2) - row))
-for row in range(num // 2):
-    if num % 2 == 0:
-        print("-" * (row + 1) + "*" + "--" * (num // 2 - 2 - row) + "*" + "-" * (row + 1))
+        print("-" * leftright + "*" + "-" * mid + "*" + "-" * leftright)
+
+    mid += 2
+
+for leftright in range((n + 1)//2):
+
+    if mid < 0:
+        print("-" *leftright + "*" + "-" * leftright)
     else:
-        print("-" * (row + 1) + "*" + "--" * (num // 2 - 2 - row) * ((row + 1) // num) + "-*" * ((row + 1) // num) + "-" * (row + 1))
+        print("-" * leftright + "*" + "-" * mid + "*" + "-" * leftright)
+
+    mid -= 2
