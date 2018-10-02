@@ -1,4 +1,5 @@
 n = int(input())
+#placement value is hi
 ans = "hi"
 div = 2
 if n == 2 or n == 3:
