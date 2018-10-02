@@ -1,3 +1,4 @@
+#series soultuion
 n = int(input())
 cur = 1
 curr = 1
