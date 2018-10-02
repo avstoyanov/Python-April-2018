@@ -1,0 +1,2 @@
+#incomplete
+n = int(input())
