@@ -1,3 +1,4 @@
+#untested version
 n = int(input())
 l = int(input())
 for one in range(1, n+1):
