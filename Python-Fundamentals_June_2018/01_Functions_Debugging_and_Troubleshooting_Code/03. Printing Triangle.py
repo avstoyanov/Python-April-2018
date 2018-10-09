@@ -11,3 +11,6 @@ for i in range(1, 2*n):
         triangle(i)
     else:
         triangle(i-n)
+
+
+
