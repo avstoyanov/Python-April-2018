@@ -6,11 +6,6 @@ def triangle(num):
         print(row,end=" ")
 
 
-for i in range(1, 2*n):
-    if i <= n:
-        triangle(i)
-    else:
-        triangle(i-n)
-
-
-
+for i in range(n - 1, -n, -1):
+    print()
+    triangle(n - abs(i))
