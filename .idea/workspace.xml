@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2920182a-ed86-433e-85e0-35fe2db18c4f" name="Default" comment="python fundamentals">
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/06. Math Power 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/07. Greater of Two Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/08. Multiply Evens by Odds.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/08. Multiply Evens by Odds.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/08. Multiply Evens by Odds.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +37,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="40" />
-          <entry key="py" value="6358" />
+          <entry key="py" value="6565" />
           <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="59" />
-          <entry key="Python" value="6358" />
+          <entry key="Python" value="6565" />
         </counts>
       </usages-collector>
     </session>
@@ -158,7 +156,15 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/08. Multiply Evens by Odds.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" selection-end-line="16" />
+              <folding>
+                <marker date="1539486164120" expanded="true" signature="51:56" ph="..." />
+                <marker date="1539486164120" expanded="true" signature="51:199" ph="..." />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -317,28 +323,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.07. Greater of Two Values">
-    <configuration name="03. Printing Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-April-2018" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/03. Printing Triangle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.08. Multiply Evens by Odds">
     <configuration name="04. Draw a Filled Square" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-April-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -423,20 +408,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="08. Multiply Evens by Odds" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-April-2018" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/08. Multiply Evens by Odds.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.03. Printing Triangle" />
       <item itemvalue="Python.04. Draw a Filled Square" />
       <item itemvalue="Python.05. Calculate Traingle Area" />
       <item itemvalue="Python.06. Math Power" />
       <item itemvalue="Python.07. Greater of Two Values" />
+      <item itemvalue="Python.08. Multiply Evens by Odds" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.08. Multiply Evens by Odds" />
         <item itemvalue="Python.07. Greater of Two Values" />
         <item itemvalue="Python.06. Math Power" />
         <item itemvalue="Python.05. Calculate Traingle Area" />
         <item itemvalue="Python.04. Draw a Filled Square" />
-        <item itemvalue="Python.03. Printing Triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -640,11 +646,19 @@
       <option name="project" value="LOCAL" />
       <updated>1539482770748</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="python fundamentals">
+      <created>1539485700261</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1539485700261</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="26" width="687" height="746" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988067" visible="true" weight="0.34954408" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -1085,7 +1099,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/08. Multiply Evens by Odds.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="16" />
+          <folding>
+            <marker date="1539486164120" expanded="true" signature="51:56" ph="..." />
+            <marker date="1539486164120" expanded="true" signature="51:199" ph="..." />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
