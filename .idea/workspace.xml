@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2920182a-ed86-433e-85e0-35fe2db18c4f" name="Default" comment="python fundamentals">
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/03. Smallest Item in List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/04. Rotate List of Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/05. Count of Odd Numbers in List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/06. Odd Numbers at Odd Positions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/07. Remove Negatives and Reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/08. Append Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/09. Sort Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/10. Square Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/00_Course_Overview/00. Python-Fundamentals-Python-Intro-Exercises.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/00. Python-Fundamentals-Functions-and-Debugging-Exercises.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/00. Lists-and-Dictionaries-Dictionaries-Lab.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/02. Multiply a List of Integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/02. Multiply a List of Integers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/01_first_steps/1. First-Steps-in-Coding-Exercises.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/01_first_steps/00. First-Steps-in-Coding-Exercises.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/02_simple_calculations/2. Simple-Calculations-Exercises.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/02_simple_calculations/00. Simple-Calculations-Exercises.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/03_simple_conditions/3. Simple-Conditions-Exercises.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/03_simple_conditions/00. Simple-Conditions-Exercises.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/04_complex_conditions/4. Complex-Conditions-Exercises.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/04_complex_conditions/00. Complex-Conditions-Exercises.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/05_loops/5. Loops-Exercises.docx" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/05_loops/00. Loops-Exercises.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="74" />
+          <entry key="py" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="74" />
+          <entry key="Python" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -64,12 +63,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/10. Square Numbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/01. Odd Occurrences.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -96,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/11. Fortress.py" />
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/12. Butterfly.py" />
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/13. Stop Sign.py" />
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/01. Numbers From 1 to N by 3.py" />
@@ -147,14 +141,15 @@
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/08. Append Lists.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/09. Sort Numbers.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/10. Square Numbers.py" />
+        <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/01. Odd Occurrences.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
-    <option name="y" value="26" />
-    <option name="width" value="687" />
-    <option name="height" value="746" />
+    <option name="x" value="81" />
+    <option name="y" value="66" />
+    <option name="width" value="679" />
+    <option name="height" value="742" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -174,6 +169,23 @@
             <path>
               <item name="Python-April-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-April-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgrammingBasicsWithPython2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-April-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-April-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgrammingBasicsWithPython2018" type="462c0819:PsiDirectoryNode" />
+              <item name="06_drawing_with_loops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-April-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-April-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgrammingBasicsWithPython2018" type="462c0819:PsiDirectoryNode" />
+              <item name="07_advanced_loops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-April-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-April-2018" type="462c0819:PsiDirectoryNode" />
               <item name="Python-Fundamentals_June_2018" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -187,7 +199,7 @@
               <item name="Python-April-2018" type="462c0819:PsiDirectoryNode" />
               <item name="Python-Fundamentals_June_2018" type="462c0819:PsiDirectoryNode" />
               <item name="02_Lists_and_Dictionaries" type="462c0819:PsiDirectoryNode" />
-              <item name="00_Lists" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Dictionaries" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,12 +212,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/Test_Problems" />
-      <recent name="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/Test_Problems" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/08_loops" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python-Fundamentals_June_2018/00_Course_Overview" />
+      <recent name="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code" />
+      <recent name="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists" />
+      <recent name="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/Test_Problems" />
+      <recent name="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/09_drawing_with_loops/Test_Problems" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -585,19 +600,25 @@
       <option name="project" value="LOCAL" />
       <updated>1540255079456</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="python fundamentals">
+      <created>1540524030015</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1540524030015</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="26" width="687" height="746" extended-state="0" />
-    <editor active="true" />
+    <frame x="-14" y="88" width="679" height="742" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988067" visible="true" weight="0.3449848" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988067" visible="true" weight="0.34923077" />
+      <window_info id="Structure" order="1" weight="0.24923077" />
       <window_info id="Favorites" order="2" sideWeight="0.50119334" side_tool="true" weight="0.34954408" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.54103345" visible="true" weight="0.32206118" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5415385" visible="true" weight="0.3241491" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969605" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -605,7 +626,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32901135" />
       <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.45896655" side_tool="true" visible="true" weight="0.32206118" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.45846155" side_tool="true" visible="true" weight="0.3241491" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -653,13 +674,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/06_drawing_with_loops/02. Rectangle N by N.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/06_drawing_with_loops/09. House.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1016,6 +1030,9 @@
           <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/01. Odd Occurrences.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
