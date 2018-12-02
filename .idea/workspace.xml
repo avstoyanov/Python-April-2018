@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2920182a-ed86-433e-85e0-35fe2db18c4f" name="Default" comment="python fundamentals">
+      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/00_Lists/00. List-and-Dictionaries-Exercise-Lists.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/01_Dictionaries/00. List-and-Dictionaries-Exercise-Dictionaries.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/01_Dictionaries/01. Key-Key Value-Value.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="140" />
+          <entry key="py" value="142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="140" />
+          <entry key="Python" value="142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -61,13 +63,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/01_Dictionaries/01. Key-Key Value-Value.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -109,8 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/08. Factorial.py" />
-        <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/11. Enter Even Number.py" />
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/13. Number Pyramid.py" />
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/14. Number Table.py" />
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/10. Check Prime.py" />
@@ -160,14 +170,16 @@
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/09. Wardrobe.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" />
+        <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/dictionaries/01. Key-Key Value-Value.py" />
+        <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/01. Sum Adjacent Equal Numbers.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
-    <option name="y" value="26" />
-    <option name="width" value="687" />
-    <option name="height" value="746" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="243" />
+    <option name="y" value="102" />
+    <option name="width" value="1211" />
+    <option name="height" value="685" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -194,14 +206,27 @@
               <item name="Python-April-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-April-2018" type="462c0819:PsiDirectoryNode" />
               <item name="Python-Fundamentals_June_2018" type="462c0819:PsiDirectoryNode" />
-              <item name="02_Lists_and_Dictionaries" type="462c0819:PsiDirectoryNode" />
+              <item name="02.a_Exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-April-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-April-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Python-Fundamentals_June_2018" type="462c0819:PsiDirectoryNode" />
+              <item name="02.a_Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="00_Lists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-April-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-April-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Python-Fundamentals_June_2018" type="462c0819:PsiDirectoryNode" />
+              <item name="02.a_Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Dictionaries" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-April-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-April-2018" type="462c0819:PsiDirectoryNode" />
               <item name="Python-Fundamentals_June_2018" type="462c0819:PsiDirectoryNode" />
               <item name="02_Lists_and_Dictionaries" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Dictionaries" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -629,19 +654,25 @@
       <option name="project" value="LOCAL" />
       <updated>1541467878838</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="python fundamentals">
+      <created>1543715760706</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1543715760707</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="26" width="1374" height="746" extended-state="6" />
-    <editor active="true" />
+    <frame x="243" y="102" width="1211" height="685" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988067" visible="true" weight="0.1881041" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988067" visible="true" weight="0.21404399" />
       <window_info id="Structure" order="1" weight="0.24923077" />
       <window_info id="Favorites" order="2" sideWeight="0.50119334" side_tool="true" weight="0.34954408" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7167286" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.71658206" visible="true" weight="0.36964285" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.56802976" weight="0.39774558" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -649,7 +680,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49848023" weight="0.2141707" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49962825" weight="0.32850242" />
       <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.28327137" side_tool="true" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.28341794" side_tool="true" visible="true" weight="0.36964285" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -723,12 +754,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/01_first_steps/04.Triangle of 55 stars.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/01_first_steps/05.Rectangle area.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/01_first_steps/06.Square of stars.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -925,6 +950,12 @@
           <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/01_Dictionaries/01. Key-Key Value-Value.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
