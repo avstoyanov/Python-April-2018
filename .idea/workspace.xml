@@ -2,11 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2920182a-ed86-433e-85e0-35fe2db18c4f" name="Default" comment="python fundamentals">
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/00_Lists/00. List-and-Dictionaries-Exercise-Lists.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/01_Dictionaries/00. List-and-Dictionaries-Exercise-Dictionaries.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/01_Dictionaries/01. Key-Key Value-Value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-April-2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-April-2018.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/00_Lists/00. List-and-Dictionaries-Exercise-Lists.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/00. List-and-Dictionaries-Exercise-Lists.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/01_Dictionaries/00. List-and-Dictionaries-Exercise-Dictionaries.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/00. List-and-Dictionaries-Exercise-Dictionaries.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/01_Dictionaries/01. Key-Key Value-Value.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/01. Key-Key Value-Value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/00. Lists-and-Dictionaries-Dictionaries-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/00. Lists-and-Dictionaries-Dictionaries-Lab.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/01. Sum List Items.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/01. Sum List Items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/02. Multiply a List of Integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/02. Multiply a List of Integers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/03. Smallest Item in List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/03. Smallest Item in List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/04. Rotate List of Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/04. Rotate List of Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/05. Count of Odd Numbers in List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/05. Count of Odd Numbers in List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/06. Odd Numbers at Odd Positions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/06. Odd Numbers at Odd Positions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/07. Remove Negatives and Reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/07. Remove Negatives and Reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/08. Append Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/08. Append Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/09. Sort Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/09. Sort Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/10. Square Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/10. Square Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/00. Lists-and-Dictionaries-Lists-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/00. Lists-and-Dictionaries-Lists-Lab.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/01. Odd Occurrences.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/01. Odd Occurrences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/02. Count Real Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/02. Count Real Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/03. Letter Repetition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/03. Letter Repetition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/04. Dict-Ref.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/04. Dict-Ref.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/05. Mixed Phones.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/05. Mixed Phones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/06. Exam Shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/06. Exam Shopping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/07. User Logins.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/07. User Logins.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/08. Filter Base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/08. Filter Base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/09. Wardrobe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/09. Wardrobe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,96 +40,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1813194289">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.18" value="3" />
-          <entry key="project.open.time.19" value="3" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.22" value="2" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.44" value="1" />
-          <entry key="project.open.time.47" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="17" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="142" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="142" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="40" />
-          <entry key="py" value="15219" />
-          <entry key="txt" value="19" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="59" />
-          <entry key="Python" value="15219" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="Python-April-2018" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+            <state>
+              <caret selection-end-line="13" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/01_Dictionaries/01. Key-Key Value-Value.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/07. Remove Negatives and Reverse.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/06. Odd Numbers at Odd Positions.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/05. Count of Odd Numbers in List.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -121,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/13. Number Pyramid.py" />
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/14. Number Table.py" />
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/10. Check Prime.py" />
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/15. Password Generator.py" />
@@ -169,17 +121,18 @@
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/08. Filter Base.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/09. Wardrobe.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py" />
-        <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/dictionaries/01. Key-Key Value-Value.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/01. Sum Adjacent Equal Numbers.py" />
+        <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" />
+        <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="243" />
-    <option name="y" value="102" />
-    <option name="width" value="1211" />
-    <option name="height" value="685" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-4" />
+    <option name="y" value="26" />
+    <option name="width" value="687" />
+    <option name="height" value="746" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -189,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,35 +158,24 @@
               <item name="Python-April-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-April-2018" type="462c0819:PsiDirectoryNode" />
               <item name="Python-Fundamentals_June_2018" type="462c0819:PsiDirectoryNode" />
-              <item name="02.a_Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="02.b_Exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-April-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-April-2018" type="462c0819:PsiDirectoryNode" />
               <item name="Python-Fundamentals_June_2018" type="462c0819:PsiDirectoryNode" />
-              <item name="02.a_Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="02.b_Exercises" type="462c0819:PsiDirectoryNode" />
               <item name="00_Lists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-April-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-April-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="Python-Fundamentals_June_2018" type="462c0819:PsiDirectoryNode" />
-              <item name="02.a_Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Dictionaries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-April-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-April-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="Python-Fundamentals_June_2018" type="462c0819:PsiDirectoryNode" />
-              <item name="02_Lists_and_Dictionaries" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -261,8 +202,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="06. Exam Shopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.01. Sum Adjacent Equal Numbers">
+    <configuration name="01. Sum Adjacent Equal Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-April-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,11 +211,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/06. Exam Shopping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,18 +310,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.06. Exam Shopping" />
       <item itemvalue="Python.08. Filter Base" />
       <item itemvalue="Python.09. Wardrobe" />
       <item itemvalue="Python.10. Shellbound" />
+      <item itemvalue="Python.01. Sum Adjacent Equal Numbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01. Sum Adjacent Equal Numbers" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.10. Shellbound" />
         <item itemvalue="Python.09. Wardrobe" />
         <item itemvalue="Python.08. Filter Base" />
-        <item itemvalue="Python.06. Exam Shopping" />
       </list>
     </recent_temporary>
   </component>
@@ -665,14 +606,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="243" y="102" width="1211" height="685" extended-state="0" />
+    <frame x="-4" y="26" width="1374" height="746" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988067" visible="true" weight="0.21404399" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988067" visible="true" weight="0.14817573" />
       <window_info id="Structure" order="1" weight="0.24923077" />
       <window_info id="Favorites" order="2" sideWeight="0.50119334" side_tool="true" weight="0.34954408" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.71658206" visible="true" weight="0.36964285" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.71556216" visible="true" weight="0.37601295" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.56802976" weight="0.39774558" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -680,7 +622,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49848023" weight="0.2141707" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49962825" weight="0.32850242" />
       <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.28341794" side_tool="true" visible="true" weight="0.36964285" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.28443784" side_tool="true" visible="true" weight="0.37601295" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -712,9 +654,20 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="KASD" />
@@ -855,107 +808,95 @@
     <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/03_simple_conditions/08. Metric Converter.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/06. Exam Shopping.py">
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/06. Exam Shopping.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1247971762/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="5060" column="8" selection-start-line="5060" selection-start-column="8" selection-end-line="5060" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/05. Mixed Phones.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1247971762/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/05. Mixed Phones.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/04. Dict-Ref.py">
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/04. Dict-Ref.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/07. User Logins.py">
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/07. User Logins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/08. Append Lists.py">
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/08. Append Lists.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/09. Sort Numbers.py">
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/09. Sort Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="45" lean-forward="true" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/10. Square Numbers.py">
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/10. Square Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="45" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python3.7/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/07. Remove Negatives and Reverse.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/06. Odd Numbers at Odd Positions.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/05. Count of Odd Numbers in List.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/08. Filter Base.py">
+    <entry file="file:///usr/lib/python3.7/codecs.py" />
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/08. Filter Base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/09. Wardrobe.py">
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/09. Wardrobe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/01. Key-Key Value-Value.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/07. Remove Negatives and Reverse.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/06. Odd Numbers at Odd Positions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/05. Count of Odd Numbers in List.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/01_Dictionaries/01. Key-Key Value-Value.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
