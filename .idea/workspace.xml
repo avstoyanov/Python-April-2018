@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2920182a-ed86-433e-85e0-35fe2db18c4f" name="Default" comment="python fundamentals">
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/02. Split by Word Casing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/04. List Contains Element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/03. Count Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/05. Smallest Element in List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/00. Lists-and-Dictionaries-Dictionaries-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/00. Lists-and-Dictionaries-Dictionaries-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/06. Odd Numbers at Odd Positions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/06. Odd Numbers at Odd Positions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/10. Square Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/10. Square Numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/00. Lists-and-Dictionaries-Lists-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/00. Lists-and-Dictionaries-Lists-Lab.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,60 +19,51 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/07. Remove Negatives and Reverse.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/08. Append Lists.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/09. Sort Numbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/10. Square Numbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/04. List Contains Element.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/02. Split by Word Casing.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/03. Count Numbers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/05. Smallest Element in List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="6" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/03. Smallest Item in List.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -84,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/06. Odd Numbers at Odd Positions.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -93,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/04. Rotate List of Strings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -102,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/05. Count of Odd Numbers in List.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -122,8 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/12. Fibonacci_V2.py" />
-        <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/16. Magic Numbers.py" />
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/Test_Problems/15. Password Generator.py" />
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/Test_Problems/16. Magic Numbers.py" />
         <option value="$PROJECT_DIR$/ProgrammingBasicsWithPython2018/10_advanced_loops/Test_Problems/17.Special Numbers.py" />
@@ -166,21 +152,22 @@
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Exercises/dictionaries/01. Key-Key Value-Value.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/00_Lists/01. Sum Adjacent Equal Numbers.py" />
-        <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/06. Odd Numbers at Odd Positions.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/10. Square Numbers.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/04. List Contains Element.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/02. Split by Word Casing.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/02. Split by Word Casing.py" />
+        <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/05. Smallest Element in List.py" />
+        <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" />
+        <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/03. Count Numbers.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
     <option name="y" value="26" />
-    <option name="width" value="687" />
-    <option name="height" value="746" />
+    <option name="width" value="780" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -256,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.04. List Contains Element">
+  <component name="RunManager" selected="Python.03. Count Numbers">
     <configuration name="01. Sum Adjacent Equal Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-April-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -270,6 +257,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03. Count Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-April-2018" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/03. Count Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,7 +307,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09. Wardrobe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05. Smallest Element in List" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-April-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -307,32 +315,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/09. Wardrobe.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="10. Shellbound" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-April-2018" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/05. Smallest Element in List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -364,18 +351,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.09. Wardrobe" />
-      <item itemvalue="Python.10. Shellbound" />
       <item itemvalue="Python.01. Sum Adjacent Equal Numbers" />
       <item itemvalue="Python.04. List Contains Element" />
+      <item itemvalue="Python.05. Smallest Element in List" />
+      <item itemvalue="Python.03. Count Numbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03. Count Numbers" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.05. Smallest Element in List" />
         <item itemvalue="Python.04. List Contains Element" />
         <item itemvalue="Python.01. Sum Adjacent Equal Numbers" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.10. Shellbound" />
-        <item itemvalue="Python.09. Wardrobe" />
       </list>
     </recent_temporary>
   </component>
@@ -663,26 +650,34 @@
       <option name="project" value="LOCAL" />
       <updated>1544901342393</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="python fundamentals">
+      <created>1544972055827</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1544972055827</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="26" width="687" height="746" extended-state="0" />
+    <frame x="0" y="26" width="780" height="738" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988067" visible="true" weight="0.30335367" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988067" visible="true" weight="0.26568758" />
       <window_info id="Structure" order="1" weight="0.24923077" />
       <window_info id="Favorites" order="2" sideWeight="0.50119334" side_tool="true" weight="0.34954408" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.714939" visible="true" weight="0.37601295" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.56802976" weight="0.39774558" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7089453" visible="true" weight="0.3752039" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.564753" weight="0.3964111" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49848023" weight="0.2141707" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49962825" weight="0.32850242" />
       <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.28506097" side_tool="true" visible="true" weight="0.37601295" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.29105473" side_tool="true" visible="true" weight="0.3752039" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -763,19 +758,15 @@
           <line>4</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/03. Count Numbers.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/02_simple_calculations/06. Circle Area and Perimeter.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/02_simple_calculations/07. 2D Rectangle Area.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/02_simple_calculations/08. Triangle Area.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/02_simple_calculations/09. Celsius to Fahrenheit.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -901,9 +892,6 @@
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/01. Key-Key Value-Value.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/01. Sum Adjacent Equal Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -925,52 +913,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/03. Smallest Item in List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/04. Rotate List of Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/05. Count of Odd Numbers in List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/06. Odd Numbers at Odd Positions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/02. Split by Word Casing.py" />
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/07. Remove Negatives and Reverse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/08. Append Lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/09. Sort Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -981,18 +942,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/02. Split by Word Casing.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/03. Smallest Item in List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/06. Odd Numbers at Odd Positions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/04. Rotate List of Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/00_Lists/05. Count of Odd Numbers in List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/04. List Contains Element.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/02. Split by Word Casing.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/05. Smallest Element in List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/03. Count Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
