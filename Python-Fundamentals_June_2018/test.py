@@ -1,3 +1,3 @@
-for i in range(1, 10):
-    print(i)
-    i-=1
+listr = [2, 3]
+if not listr:
+    print("emp")

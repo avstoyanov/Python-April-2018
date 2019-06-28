@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2920182a-ed86-433e-85e0-35fe2db18c4f" name="Default" comment="python fundamentals">
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/04. Forum Topics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/05. Social Media Posts.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/03. Dict-Ref-Advanced.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/03. Dict-Ref-Advanced.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/04. Forum Topics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/04. Forum Topics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,13 +21,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/02. Travel Company.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="150">
+              <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/01. Key-Key Value-Value.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/03. Dict-Ref-Advanced.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -36,7 +46,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/04. Forum Topics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/05. Social Media Posts.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/03. Printing Triangle.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -58,7 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/01. Blank Receipt.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/02. Sign of Integer Number.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/03. Printing Triangle.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/04. Draw a Filled Square.py" />
@@ -100,7 +141,6 @@
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/02. Split by Word Casing.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/06. Reverse List In-place.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/07. Sort List Using Bubble Sort.py" />
-        <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/08. Sort List Using Insertion Sort.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/08.5 Sort List Using Insertion Sort.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/09. Insertion Sort Using List.py" />
@@ -108,14 +148,17 @@
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/01. Key-Key Value-Value.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/02. Travel Company.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/03. Dict-Ref-Advanced.py" />
+        <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" />
         <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/04. Forum Topics.py" />
+        <option value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/05. Social Media Posts.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="30" />
-    <option name="width" value="1784" />
-    <option name="height" value="722" />
+    <option name="x" value="4" />
+    <option name="y" value="26" />
+    <option name="width" value="951" />
+    <option name="height" value="742" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -125,7 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,6 +203,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.03. Dict-Ref-Advanced">
+  <component name="RunManager" selected="Python.04. Forum Topics">
     <configuration name="01. Key-Key Value-Value" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-April-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,7 +299,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09. Insertion Sort Using List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04. Forum Topics" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-April-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,11 +307,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/09. Insertion Sort Using List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/04. Forum Topics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +320,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10. Largest N Elements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-April-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,11 +328,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Fundamentals_June_2018" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/10. Largest N Elements.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,16 +345,16 @@
       <item itemvalue="Python.01. Key-Key Value-Value" />
       <item itemvalue="Python.02. Travel Company" />
       <item itemvalue="Python.03. Dict-Ref-Advanced" />
-      <item itemvalue="Python.09. Insertion Sort Using List" />
-      <item itemvalue="Python.10. Largest N Elements" />
+      <item itemvalue="Python.04. Forum Topics" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04. Forum Topics" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.03. Dict-Ref-Advanced" />
         <item itemvalue="Python.02. Travel Company" />
         <item itemvalue="Python.01. Key-Key Value-Value" />
-        <item itemvalue="Python.10. Largest N Elements" />
-        <item itemvalue="Python.09. Insertion Sort Using List" />
       </list>
     </recent_temporary>
   </component>
@@ -641,25 +684,32 @@
       <option name="project" value="LOCAL" />
       <updated>1548028831248</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="python fundamentals">
+      <created>1558054050263</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1558054050263</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="1784" height="722" extended-state="0" />
+    <frame x="4" y="26" width="951" height="742" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988067" visible="true" weight="0.11351968" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988067" visible="true" weight="0.24030173" />
       <window_info id="Structure" order="1" weight="0.24923077" />
       <window_info id="Favorites" order="2" sideWeight="0.50119334" side_tool="true" weight="0.34954408" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6909903" weight="0.34683955" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6909903" visible="true" weight="0.3050571" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5502606" weight="0.39546192" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49848023" weight="0.2141707" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49962825" weight="0.32850242" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.4497394" side_tool="true" weight="0.39546192" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.4497394" side_tool="true" weight="0.3946037" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4984756" weight="0.32901135" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -756,16 +806,6 @@
           <line>1</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/01. Key-Key Value-Value.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/03. Dict-Ref-Advanced.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -777,12 +817,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/03_simple_conditions/04. Greater Number.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/03_simple_conditions/05. Number 0...9 to Text.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingBasicsWithPython2018/03_simple_conditions/06. Bonus Score.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -911,13 +945,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/03. Count Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -994,24 +1021,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/04. Dict-Ref.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/01. Key-Key Value-Value.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -1043,15 +1056,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/02. Travel Company.py">
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.a_Lists_and_Dictionaries/01_Dictionaries/10. Shellbound.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/04. Forum Topics.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/01. Key-Key Value-Value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/02. Travel Company.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/03. Dict-Ref-Advanced.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1059,6 +1083,26 @@
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/01_Functions_Debugging_and_Troubleshooting_Code/03. Printing Triangle.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/04. Forum Topics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/05. Social Media Posts.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
