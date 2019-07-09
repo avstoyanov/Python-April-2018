@@ -26,5 +26,3 @@ for item in data_dic:
             print(each)
     else:
         print("None")
-
-#dadfafdafafafa
