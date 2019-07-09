@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2920182a-ed86-433e-85e0-35fe2db18c4f" name="Default" comment="&quot;social media posts&quot; completed">
+      <change beforePath="$PROJECT_DIR$/.idea/Python-April-2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-April-2018.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/05. Social Media Posts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/05. Social Media Posts.py" afterDir="false" />
     </list>
+    <ignored path="venv/" />
+    <ignored path=".idea/" />
+    <ignored path="ProgrammingBasicsWithPython2018/.idea/" />
+    <ignored mask="" />
+    <manually-removed-from-ignored>
+      <directory path="./" />
+    </manually-removed-from-ignored>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,20 +25,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/05. Social Media Posts.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/02. Travel Company.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="120">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/03. Dict-Ref-Advanced.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/05. Social Media Posts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/01. Key-Key Value-Value.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/00_Lists/03. Count Numbers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -42,11 +79,16 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="b5590403-3526-406f-8dbf-77947dda8293" />
+    <option name="defaultAccountId" value="1b47cc4f-2eed-4648-bf05-5cf10d87e3d6" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -106,10 +148,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
-    <option name="y" value="26" />
-    <option name="width" value="687" />
-    <option name="height" value="742" />
+    <option name="x" value="703" />
+    <option name="y" value="144" />
+    <option name="width" value="677" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -119,7 +161,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,16 +192,26 @@
               <item name="02.b_Exercises" type="462c0819:PsiDirectoryNode" />
               <item name="01_Dictionaries" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python-April-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Python-April-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -656,14 +707,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562328312906</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="&quot;social media posts&quot; completed">
+      <created>1562634405706</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1562634405706</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="26" width="1366" height="746" extended-state="6" />
+    <frame x="-4" y="46" width="1928" height="1038" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8344988" visible="true" weight="0.19955324" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8344988" visible="true" weight="0.2235108" />
       <window_info id="Structure" order="1" weight="0.24923077" />
       <window_info id="Favorites" order="2" sideWeight="0.16550116" side_tool="true" weight="0.19955324" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1025,15 +1083,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/02. Travel Company.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="40" />
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/01. Key-Key Value-Value.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state>
+          <caret selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -1070,8 +1128,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python-Fundamentals_June_2018/02.b_Exercises/01_Dictionaries/05. Social Media Posts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>

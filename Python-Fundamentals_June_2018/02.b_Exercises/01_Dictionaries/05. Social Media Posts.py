@@ -27,5 +27,3 @@ for item in data_dic:
     else:
         print("None")
 
-
-#adfafa
