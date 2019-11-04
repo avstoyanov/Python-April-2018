@@ -1,15 +1,16 @@
 # create point class
 class Point:
     def __init__(self, x, y):
+        #assign objects
         self.x = x
         self.y = y
 
 
 # define distance function
 def CalcDistance(p1, p2):
-    a = p1.x - p2.x
-    b = p1.y - p2.y
-    return pow((pow(a, 2) + pow(b, 2)), 0.5)
+    a = p1.x - p2.x #define side 'a' for pythagoran distance calculation
+    b = p1.y - p2.y #define side 'b' for pythagoran distance calculation
+    return pow((pow(a, 2) + pow(b, 2)), 0.5) #find side 'c', or distance
 
 
 # take inputs
