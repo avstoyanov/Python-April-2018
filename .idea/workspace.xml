@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2920182a-ed86-433e-85e0-35fe2db18c4f" name="Default" comment="&quot;social media posts&quot; completed">
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/04_Objects_and_Classes/02. Closest Two Points.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/04_Objects_and_Classes/03. Rectangle Position.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python-April-2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-April-2018.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/04_Objects_and_Classes/01. Distance Between Points.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/04_Objects_and_Classes/01. Distance Between Points.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Fundamentals_June_2018/04_Objects_and_Classes/02. Closest Two Points.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Fundamentals_June_2018/04_Objects_and_Classes/02. Closest Two Points.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
