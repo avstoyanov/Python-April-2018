@@ -6,7 +6,7 @@ class Point:
 
 #define a rectangle
 def rectangle(left, top, width, height):
-    top_left = Point(left, top)
+    top_left = Point(left, top) #define parameters as points
     bottom_right = Point((left + width), (top - height))
     rect = [top_left, bottom_right]
     return rect
