@@ -1,13 +1,13 @@
 # create point class
 class Point:
     def __init__(self, x, y):
-        self.x = x
-        self.y = y
+        self.x = int(x)
+        self.y = int(y)
 
 # define distance function
 def calc_distance(p1, p2):
-    a = int(p1.x) - int(p2.x)
-    b = int(p1.y) - int(p2.y)
+    a = p1.x - p2.x
+    b = p1.y - p2.y
     return pow((pow(a, 2) + pow(b, 2)), 0.5)
 #end of distance calculation
 

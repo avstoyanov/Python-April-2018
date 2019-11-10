@@ -1,13 +1,13 @@
 # create point class (see 01. Distance between points)
 class Point:
     def __init__(self, x, y):
-        self.x = x
-        self.y = y
+        self.x = int(x)
+        self.y = int(y)
 
 #define a rectangle
 def rectangle(left, top, width, height):
     top_left = Point(left, top) #define parameters as points
-    bottom_right = Point((left + width), (top - height))
+    bottom_right = Point((int(left) + width), (int(top) - height))
     rect = [top_left, bottom_right]
     return rect
 
@@ -31,7 +31,7 @@ def is_inside(rect1, rect2):
 left1, top1, w1, h1 = input().split(" ")
 left2, top2, w2, h2 = input().split(" ")
 #assign names to the two rectangles inputted
-rect1 = rectangle(int(left1), int(top1), int(w1), int(h1))
-rect2 = rectangle(int(left2), int(top2), int(w2), int(h2))
+rect1 = rectangle(left1, top1, int(w1), int(h1))
+rect2 = rectangle(left2, top2, int(w2), int(h2))
 #print results
 print(is_inside(rect1, rect2))
